@@ -8170,3 +8170,22 @@ section#gallery .img-wrapper {
 .error-404-section .error-message p {
   margin-bottom: 1.8em;
 }/*# sourceMappingURL=style.css.map */
+
+
+@media (max-width: 480px) {
+  a.navbar-brand.site-logo {
+    margin: 0px !important;
+}
+a.navbar-brand.site-logo img {
+  margin: 0px !important;
+}
+.wpo-static-hero-inner h2 {
+  padding-top: 35px;
+}
+.static-hero-right {
+  margin-top: 25px !important;
+}
+ul.sub-menu li {
+  margin-bottom: 13px !important;
+}
+}
