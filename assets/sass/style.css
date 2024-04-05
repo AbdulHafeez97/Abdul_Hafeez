@@ -8188,4 +8188,25 @@ a.navbar-brand.site-logo img {
 ul.sub-menu li {
   margin-bottom: 13px !important;
 }
+.icon-4.floating-item {
+  width: 70px;
+  height: 70px;
+  padding: 15px;
+  border-radius: 15px;
+  left: 0px;
+  top: auto;
+  bottom: 25px;
+}
+.filters.filter-button-group ul {
+  display: block;
+}
+.filters.filter-button-group ul li {
+  margin-bottom: 15px;
+}
+footer.wpo-site-footer .logo.widget-title {
+  max-width: 100% !important;
+}
+a.site-logo img {
+  margin: 0px !important;
+}
 }
