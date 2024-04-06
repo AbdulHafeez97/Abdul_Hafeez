@@ -8212,4 +8212,10 @@ a.site-logo img {
 .mobail-menu {
   display: none;
 }
+.static-hero .static-hero-right {
+  top: 60%;
+}
+section#old-portfolio video {
+  width: 100%;
+}
 }
