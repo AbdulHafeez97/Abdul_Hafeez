@@ -8209,4 +8209,7 @@ footer.wpo-site-footer .logo.widget-title {
 a.site-logo img {
   margin: 0px !important;
 }
+.mobail-menu {
+  display: none;
+}
 }
