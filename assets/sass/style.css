@@ -4702,12 +4702,12 @@ section.criative_display_section h2 {
 }
 .wpo-about-area .wpo-about-content .wpo-about-funfact .grid:nth-child(3),
 .wpo-about-area-s2 .wpo-about-content .wpo-about-funfact .grid:nth-child(3) {
-  background: linear-gradient(180deg, rgba(158, 0, 255, 0.6) 0%, rgba(31, 30, 28, 0.6) 67.59%);
+  background: linear-gradient(180deg, #28a8cb 0%, rgba(31, 30, 28, 0.6) 67.59%);
 }
 .wpo-about-area .wpo-about-content .wpo-about-funfact .grid:nth-child(3) .grid-inner p,
 .wpo-about-area-s2 .wpo-about-content .wpo-about-funfact .grid:nth-child(3) .grid-inner p {
   margin-bottom: 0;
-  color: #AD00FF;
+  color: #28a8cb;
 }
 .wpo-about-area .wpo-about-content .wpo-about-funfact .grid:nth-child(4),
 .wpo-about-area-s2 .wpo-about-content .wpo-about-funfact .grid:nth-child(4) {
@@ -4729,12 +4729,12 @@ section.criative_display_section h2 {
 }
 .wpo-about-area .wpo-about-content .wpo-about-funfact .grid:nth-child(6),
 .wpo-about-area-s2 .wpo-about-content .wpo-about-funfact .grid:nth-child(6) {
-  background: linear-gradient(180deg, #28a8cb 0%, rgba(31, 30, 28, 0.6) 67.59%);
+  background: linear-gradient(180deg, #9e00ff99 0%, rgba(31, 30, 28, 0.6) 67.59%);
 }
 .wpo-about-area .wpo-about-content .wpo-about-funfact .grid:nth-child(6) .grid-inner p,
 .wpo-about-area-s2 .wpo-about-content .wpo-about-funfact .grid:nth-child(6) .grid-inner p {
   margin-bottom: 0;
-  color: #28a8cb;
+  color: #9e00ff99;
 }
 
 /* 3.3 wpo-service-area */
