@@ -138,6 +138,10 @@ img {
 .wpo-box-style {
   padding: 0 130px;
 }
+li.logo img {
+  width: 82px;
+  height: 82px;
+}
 @media (max-width: 1700px) {
   .wpo-box-style {
     padding: 0 30px;
