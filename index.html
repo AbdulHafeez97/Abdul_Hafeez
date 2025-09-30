@@ -1057,6 +1057,22 @@ $('.filters-select').on( 'change', function() {
 });
 	
 </script>
+<script>
+jQuery(window).on('load', function() {
+  var $grid = jQuery('.grid').isotope({
+    itemSelector: '.element-item',
+    layoutMode: 'fitRows'
+  });
+
+  // 🔥 Page load hote hi sirf Social Media dikhe
+  $grid.isotope({ filter: '.cat_mob' });
+
+  // 🔥 Active class bhi set kare
+  jQuery('.filters li').removeClass('active');
+  jQuery('.filters li[data-filter=".cat_mob"]').addClass('active');
+});
+</script>
+
 </body>
 
 
