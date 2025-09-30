@@ -1055,9 +1055,8 @@ $('.filters-select').on( 'change', function() {
 	$( document ).ready(function() {
     $('.lightbox .lb-image').click(function($this){$(this).toggleClass('active_zoom');if($(this).hasClass('active_zoom')){$(this).css('transform','scale(2)');}else{$(this).css('transform','scale(1)');}});lightbox.option({'resizeDuration':200,'wrapAround':true});
 });
-	
-</script>
-<script>
+
+
 jQuery(window).on('load', function() {
   var $grid = jQuery('.grid').isotope({
     itemSelector: '.element-item',
@@ -1071,6 +1070,9 @@ jQuery(window).on('load', function() {
   jQuery('.filters li').removeClass('active');
   jQuery('.filters li[data-filter=".cat_mob"]').addClass('active');
 });
+
+
+	
 </script>
 
 </body>
